@@ -1,6 +1,6 @@
-# listbeers
+# Example on how to get a list from a REST service and display a list
 
-A new Flutter project.
+This example gets a list from a REST service and display a list with the items of this list (list of beers).
 
 ## Getting Started
 
